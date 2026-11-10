@@ -1,0 +1,25 @@
+export const children = [
+  { id: "c_7f3a91", name: "Child 1", photoUrl: null },
+  { id: "c_2b8d04", name: "Child 2", photoUrl: null },
+  { id: "c_9e1c57", name: "Child 3", photoUrl: null },
+  { id: "c_4a6f12", name: "Child 4", photoUrl: null },
+  { id: "c_d05b38", name: "Child 5", photoUrl: null },
+  { id: "c_83e7a9", name: "Child 6", photoUrl: null },
+  { id: "c_1c9f60", name: "Child 7", photoUrl: null },
+
+  { id: "c_7", name: "Child 8", photoUrl: null },
+  { id: "c_2", name: "Child 9", photoUrl: null },
+  { id: "c_9", name: "Child 10", photoUrl: null },
+  { id: "c_4", name: "Child 11", photoUrl: null },
+  { id: "c_d", name: "Child 12", photoUrl: null },
+  { id: "c_8", name: "Child 13", photoUrl: null },
+  { id: "c_1", name: "Child 14", photoUrl: null },
+
+  { id: "c_77", name: "Child 8", photoUrl: null },
+  { id: "c_27", name: "Child 9", photoUrl: null },
+  { id: "c_97", name: "Child 10", photoUrl: null },
+  { id: "c_47", name: "Child 11", photoUrl: null },
+  { id: "c_d7", name: "Child 12", photoUrl: null },
+  { id: "c_87", name: "Child 13", photoUrl: null },
+  { id: "c_17", name: "Child 14", photoUrl: null },
+];
