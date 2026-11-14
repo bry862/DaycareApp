@@ -10,5 +10,7 @@ export default defineConfig({
     tailwindcss(),
     babel({ presets: [reactCompilerPreset()] })
   ],
+
+  base: '/DaycareApp/',
   
 })
